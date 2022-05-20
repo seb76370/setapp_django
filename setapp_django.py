@@ -2,7 +2,7 @@ from pathlib import Path
 from pprint import pprint
 import sys
 import configparser
-
+toto
 
 
 def add_app_setting(file :str, app : str) -> bool:
